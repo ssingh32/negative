@@ -46,7 +46,7 @@
     "mocha": "^2.4.5",
     "node-abi": "^2.15.0",
     "run-sequence": "^1.1.5",
-    "spectron": "^3.7.0",
+    "spectron": "^7.0.0",
     "yargs": "^4.7.1"
   },
   "engines": {
